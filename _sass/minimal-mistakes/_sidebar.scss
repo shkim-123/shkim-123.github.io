@@ -45,11 +45,12 @@
     margin-bottom: 1em;
   }
 
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
+  h2
+//   h3,     // 22.01.20 주석처리
+//   h4,
+//   h5,
+//   h6 
+{
     margin-bottom: 0;
     font-family: $sans-serif-narrow;
   }
