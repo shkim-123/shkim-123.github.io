@@ -109,6 +109,9 @@ body {
   li,
   dl {
     font-size: 0.75em;
+	li {			/* 추가 */
+	  font-size: 1em;			
+	}
   }
 
   /* paragraph indents */
