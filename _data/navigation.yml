@@ -1,0 +1,17 @@
+# main links
+main:
+   - title: "Home"
+     url: https://shkim-123.github.io/
+ # - title: "About"
+ #   url: "/about/"
+   - title: "Category"
+     url: "/categories/"
+
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shkim-123.github.io/sitemap.xml
