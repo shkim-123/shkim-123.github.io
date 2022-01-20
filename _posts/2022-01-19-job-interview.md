@@ -9,7 +9,7 @@ tags:
   - [면접]
 
 toc: true
-toc_sticky: false
+toc_sticky: true
  
 date: 2022-01-19
 last_modified_at: 2022-01-19
