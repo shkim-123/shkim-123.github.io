@@ -20,3 +20,6 @@ last_modified_at: 2022-01-20
 - (채팅이나 회의 도중) 화장실에 가기 위한 짧은 휴식   
 - I need to take a **biobreak**   
   - 잠깐 화장실 좀 다녀와야겠어요.
+
+### EOM
+- End of message
